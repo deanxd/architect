@@ -1,1 +1,1 @@
-include ':app', ':handler', ':binderA', ':binderB'
+include ':app', ':handler', ':binderA', ':binderB', ':fix', ':fixdemo'
