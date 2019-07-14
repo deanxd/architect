@@ -1,4 +1,0 @@
-com/deanxd/fix/demo/MainActivity.class
-com/deanxd/fix/demo/BaseActivity.class
-com/deanxd/fix/demo/app/FixApplication.class
-com/deanxd/fix/demo/test/Test2.class
